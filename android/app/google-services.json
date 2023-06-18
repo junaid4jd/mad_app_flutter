@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "587818206575",
+    "project_id": "mad-app-flutter",
+    "storage_bucket": "mad-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587818206575:android:7f553d0a736dde6359549a",
+        "android_client_info": {
+          "package_name": "com.mad.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587818206575-hn02rln4lko5a8iahuk1jj1e583ken3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.android",
+            "certificate_hash": "281faf26ae13bb02b164cc23657032ab555459d0"
+          }
+        },
+        {
+          "client_id": "587818206575-hlidmtgncthf123nsmht11rb72hf10eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzHQfwr9SiNpbk4D7aUXqvrZ7J3WpIQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587818206575-hlidmtgncthf123nsmht11rb72hf10eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
