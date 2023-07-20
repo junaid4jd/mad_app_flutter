@@ -777,6 +777,12 @@ class _DoctorBookingScreenState extends State<DoctorBookingScreen> {
                                                           snapshot.data!.docs[index]["bookingStatus"].toString() == 'Cancelled' ?
                                                           Colors.red :
 // https://github.com/junaid4jd/mad_app_flutter.git
+//                                                           git init
+//                                                           git add README.md
+//                                                           git commit -m "july 20th commit"
+//                                                         git branch -M main
+//                                                         git remote add origin https://github.com/junaid4jd/mad_app_flutter.git
+//                                                         git push -f origin main
                                                           primaryColor,
                                                         ),
                                                         width: size.width*0.4,
